@@ -15,6 +15,7 @@ https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition
 - Model Evaluation and Accuracy Calculation
 - Visualization of Eigenfaces
 - Experimentation with n_components in PCA
+  
 ## Note:
 
 - The code provides insights into each step with informative print statements and visualizations.
