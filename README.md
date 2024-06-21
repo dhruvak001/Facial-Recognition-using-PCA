@@ -10,7 +10,7 @@ https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition
 
 - Data Loading and Preprocessing
 - Exploratory Data Analysis (EDA)
-- Eigenfaces Implementation using PCA
+- Eigenfaces Implementation using Principle Component Analysis (PCA)
 - Model Training with K-Nearest Neighbors (KNN)
 - Model Evaluation and Accuracy Calculation
 - Visualization of Eigenfaces
